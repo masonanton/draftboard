@@ -1,1 +1,3 @@
 # draftboard
+
+Started 5/25/24. Draft board project that imports baseball statistics, presents them in a fashionable manner, and recommends a player to be drafted. To be continued...
